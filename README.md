@@ -7,13 +7,14 @@
 
 ---
 ## Team members
-   - [Prem Jha](https://github.com/tenserebel)
+   - [Rahul Gupta](https://github.com/RahulGupta77)
    - [Rana Karn](https://github.com/Rkarn1125)
 ---
 ## Tech Stack used 
 
    - Python
    - React (for frontend)
+   - NodeJS
    - Flask API (for model deployment) 
    
 ---
