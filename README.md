@@ -28,9 +28,8 @@
 ---
 ## Project Description
 
-   - This is a Car damage detection web app which detects the type of car damage in a given image
+   - This is a Car damage detection web app which detects the type of car damage in a given image.
    - The model automatically generates bounding boxes around the damaged area. 
-   - I worked on the Machine Learning side of the project.
    
 ---
 ### Model Buliding Procedure 
