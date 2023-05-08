@@ -5,6 +5,9 @@
 ## Demo 
 ![car_video](https://user-images.githubusercontent.com/63935255/189545661-c48b0296-29ea-4005-922b-969fc5c20565.gif)
 
+## Test Run
+![image](https://user-images.githubusercontent.com/63343297/236921340-9c5e02ab-4e81-4f04-b409-513bc502c228.png)
+
 ---
 ## Team members
    - [Rahul Gupta](https://github.com/RahulGupta77)
